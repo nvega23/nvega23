@@ -8,7 +8,7 @@
 
 ### Hello World, my name is Nestor Vega! Welcome to my Github Page:
 
-- 🔭 I’m currently working on my [MERN](https://mysite-6cen.onrender.com) project where users are allowed to create, edit, delete a post/comments as well as likes!
+- 🔭 I’m currently working on my [MERN](https://mysite-6cen.onrender.com) project where users are allowed to post, talk and sell the food that they have made!!!
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/nestor-vega-233b43238/) [wellfound](https://angel.co/u/nestorvega23)
 - 😄 Pronouns: He/Him
