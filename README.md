@@ -4,21 +4,11 @@
 
 ### Hello World, my name is Nestor Vega! Welcome to my Github Page:
 
-<br/>
-<br/>
-
-
 - 🔭 I’m currently working on my [MERN](https://mysite-6cen.onrender.com) project where users are allowed to create, edit, delete a post/comments as well as likes!
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/nestor-vega-233b43238/) [wellfound](https://angel.co/u/nestorvega23)
 - 😄 Pronouns: He/Him
 - ⚡️ Fun fact: I play Elden ring almost every day. Am i good? no. but I love the game!
-
-<br/>
-
-GitHub Stats
-
-
 
 ### Languages and Tools:
 
