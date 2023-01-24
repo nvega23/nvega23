@@ -1,3 +1,7 @@
+### Hi there 👋
+
+## Introduction
+
 ### Hello World, my name is Nestor Vega! Welcome to my Github Page:
 
 <br/>
@@ -11,6 +15,10 @@
 - ⚡️ Fun fact: I play Elden ring almost every day. Am i good? no. but I love the game!
 
 <br/>
+
+GitHub Stats
+
+
 
 ### Languages and Tools:
 
