@@ -1,11 +1,4 @@
-### Hi there 👋
-
-
-<p align: "left"> <img src="https://user-images.githubusercontent.com/93811834/214443162-0f56b5f9-7701-4b70-9aa0-4b260412b27d.gif" alt='gif' | width=250 > </p>
-
-
-## Introduction
-
+## Introduction 
 ### Hello World, my name is Nestor Vega! Welcome to my Github Page:
 
 - 🔭 I’m currently working on my [Facebook clone](https://mysite-6cen.onrender.com) where users are allowed to create, edit, and delete their posts/comments
