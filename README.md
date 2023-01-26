@@ -29,3 +29,6 @@
 ![swift](https://user-images.githubusercontent.com/93811834/214440964-56d8945e-f165-493e-8bfd-ab19eeb36788.png)
 ![aws](https://user-images.githubusercontent.com/93811834/214441088-3f4cdba4-a1b7-4502-8351-8ae7b2238714.png)
 ![python](https://user-images.githubusercontent.com/93811834/214439120-6d0609ad-1ba6-4392-aba3-e8faab07dc31.gif)
+
+
+![Nestor's GitHub stats](https://github-readme-stats.vercel.app/api?username=nvega23&count_private=true)
