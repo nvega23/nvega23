@@ -1,7 +1,7 @@
 ## Introduction 
 ### Hello World, my name is Nestor Vega! Welcome to my Github Page:
 
-- 🔭 I’m currently working on finishing up the final touches on my [Facebook clone](https://mysite-6cen.onrender.com/) where users are allowed to create, edit, and delete their posts/comments
+- 🔭 I’m currently working on finishing up some of the final touches on my [Facebook clone](https://mysite-6cen.onrender.com/) where users are allowed to create, edit, and delete their posts/comments
 - 🌱 I’m currently learning Swift
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/nestor-vega-233b43238/) [wellfound](https://angel.co/u/nestorvega23)
 - 😄 Pronouns: He/Him
