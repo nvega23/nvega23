@@ -23,6 +23,7 @@
 ![aws](https://user-images.githubusercontent.com/93811834/214441088-3f4cdba4-a1b7-4502-8351-8ae7b2238714.png)
 ![python](https://user-images.githubusercontent.com/93811834/214439120-6d0609ad-1ba6-4392-aba3-e8faab07dc31.gif)
 
+## My stats:
 
 ![Nestor's GitHub stats](https://github-readme-stats.vercel.app/api?username=nvega23&count_private=true)
 <img align="left" alt="Nestor's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvega23" />
