@@ -1,7 +1,7 @@
 ## Introduction 
 ### Hello World, my name is Nestor Vega! Welcome to my Github Page:
 
-- 🔭 I’m currently working on finishing up some of the final touches on my [Facebook clone](https://mysite-6cen.onrender.com/) where users are allowed to create, edit, and delete their posts/comments
+- 🔭 A software engineer currently finishing the final touches on [Metabook](https://mysite-6cen.onrender.com/)
 - 🌱 I’m currently learning Swift
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/nestor-vega-233b43238/) [wellfound](https://angel.co/u/nestorvega23)
 - 😄 Pronouns: He/Him
@@ -25,3 +25,4 @@
 
 
 ![Nestor's GitHub stats](https://github-readme-stats.vercel.app/api?username=nvega23&count_private=true)
+<img align="left" alt="Nestor's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvega23" />
