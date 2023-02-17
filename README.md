@@ -1,7 +1,7 @@
 ## Introduction 
 ### Hello World, my name is Nestor Vega! Welcome to my Github Page:
 
-- 🔭 A software engineer currently finishing [Metabook](https://mysite-6cen.onrender.com/) Multi-page Facebook clone where Users can create, update, fetch, and delete posts, likes and comments
+- 🔭 A software engineer currently finishing [Metabook](https://mysite-6cen.onrender.com/) a multi-page Facebook clone where Users can create, update, fetch, and delete posts, likes and comments
 - 🌱 I’m currently learning Swift
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/nestor-vega-233b43238/) [wellfound](https://angel.co/u/nestorvega23)
 - 😄 Pronouns: He/Him
