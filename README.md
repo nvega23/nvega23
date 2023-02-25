@@ -25,5 +25,5 @@
 
 ## My stats:
 
-![Nestor's GitHub stats](https://github-readme-stats.vercel.app/api?username=nvega23&count_private=true)
-<img align="left" alt="Nestor's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvega23" />
+![Nestors's GitHub stats](https://github-readme-stats.vercel.app/api?username=nvega23&theme=radical&count_private=true&show_icons=true)
+<img align="left" alt="Nestor's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvega23&theme=radical" />
