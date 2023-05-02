@@ -2,7 +2,7 @@
 ### Hello World, my name is Nestor Vega! Welcome to my Github Page:
 
 - 🔭 A software engineer currently woking on making users have profile pictures [Metabook](https://mysite-6cen.onrender.com/)
-- 🌱 I’m currently learning Swift
+- 🌱 I’m currently learning Django
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/nestor-vega-233b43238/) [wellfound](https://angel.co/u/nestorvega23)
 - 😄 Pronouns: He/Him
 - ⚡️ Fun fact: I play Elden ring almost every day. Am i good? no. but I love the game!
