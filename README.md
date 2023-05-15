@@ -24,6 +24,9 @@
 ![python](https://user-images.githubusercontent.com/93811834/214439120-6d0609ad-1ba6-4392-aba3-e8faab07dc31.gif)
 
 ## My stats:
+<!-- ![Nestors's GitHub stats](https://github-readme-stats.vercel.app/api?username=nvega23&theme=radical&count_private=true&show_icons=true) -->
+<!-- <img align="left" alt="Nestor's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvega23&theme=radical" /> -->
 
-![Nestors's GitHub stats](https://github-readme-stats.vercel.app/api?username=nvega23&theme=radical&count_private=true&show_icons=true)
-<img align="left" alt="Nestor's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvega23&theme=radical" />
+![Nestor's GitHub stats](https://github-readme-stats.vercel.app/api?username=nvega23&theme=tokyonight&show_icons=true)
+![Nestor's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nvega23&theme=tokyonight)
+
