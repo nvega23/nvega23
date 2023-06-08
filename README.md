@@ -1,11 +1,11 @@
 ## Introduction 
 ### Hello World, my name is Nestor Vega! Welcome to my Github Page:
 
-- 🔭 A software engineer currently woking on making users have profile pictures [Metabook](https://mysite-6cen.onrender.com/)
-- 🌱 I’m currently learning Django
+- 🔭 I am a full stack software engineer, and my current project involves developing an e-commerce website utilizing the MERN stack.
+- 🌱 I’m currently learning C++
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/nestor-vega-233b43238/) [wellfound](https://angel.co/u/nestorvega23)
-- 😄 Pronouns: He/Him
-- ⚡️ Fun fact: I play Elden ring almost every day. Am i good? no. but I love the game!
+- 😄 Check out my [Personal Portolio](https://nvega23.github.io/portfolio/)
+- ⚡️ I've recently dived into the world of plants, and now I might become a person whose house is covered in plants.
 
 ## Languages and Tools:
 
