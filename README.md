@@ -9,7 +9,7 @@
 
 ## Languages and Tools:
 
-![jsgif](https://user-images.githubusercontent.com/93811834/214438983-0e0a8870-004e-4de9-aff2-08d4915afe23.gif)
+![jsgif](https://user-images.githubusercontent.com/93811834/214438983-0e0a8870-004e-4de9-aff2-08d4915afe23.gif) 
 ![ruby](https://user-images.githubusercontent.com/93811834/214439254-58657ea4-9202-42f3-b548-482740a5bf1a.png)
 ![html](https://user-images.githubusercontent.com/93811834/214439467-6d40f4b8-7595-4678-9a3e-a7187bf46cdd.png)
 ![css2](https://user-images.githubusercontent.com/93811834/214441432-d028e3a0-317d-455a-816c-27b86aec34b0.png)
