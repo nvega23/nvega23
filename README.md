@@ -1,15 +1,15 @@
 ## Introduction 
 ### Hello World, my name is Nestor Vega! Welcome to my Github Page:
 
-- 🔭 I am a full stack software engineer, and my current project involves developing an e-commerce website utilizing the MERN stack.
+- 🔭 I am a full stack software engineer, and my current project involves developing a healthbot AI that will help diagnose patients
 - 🌱 I’m currently learning C++
-- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/nestor-vega-233b43238/) [wellfound](https://angel.co/u/nestorvega23)
+- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/nestor-vega-233b43238/) [wellfound](https://angel.co/u/nestorvega23) vega.nestor1@gmail.com
 - 😄 Check out my [Personal Portolio](https://nvega23.github.io/portfolio/)
 - ⚡️ I've recently dived into the world of plants, and now I might become a person whose house is covered in plants.
 
 ## Languages and Tools:
 
-![jsgif](https://user-images.githubusercontent.com/93811834/214438983-0e0a8870-004e-4de9-aff2-08d4915afe23.gif) 
+![jsgif](https://user-images.githubusercontent.com/93811834/214438983-0e0a8870-004e-4de9-aff2-08d4915afe23.gif)  
 ![ruby](https://user-images.githubusercontent.com/93811834/214439254-58657ea4-9202-42f3-b548-482740a5bf1a.png)
 ![html](https://user-images.githubusercontent.com/93811834/214439467-6d40f4b8-7595-4678-9a3e-a7187bf46cdd.png)
 ![css2](https://user-images.githubusercontent.com/93811834/214441432-d028e3a0-317d-455a-816c-27b86aec34b0.png)
