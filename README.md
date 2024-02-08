@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning C++
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/nestor-vega-233b43238/) [wellfound](https://angel.co/u/nestorvega23) vega.nestor1@gmail.com
 - 😄 Check out my [Personal Portolio](https://nvega23.github.io/portfolio/)
-- ⚡️ I've recently dived into the world of plants, and now I might become a person whose house is covered in plants.
+- ⚡️ I recently dove into the world of plants, and now I might become a person whose house is covered in plants.
 
 ## Languages and Tools:
 
