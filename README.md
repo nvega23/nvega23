@@ -1,7 +1,7 @@
 ## Introduction 
 ### Hello World, my name is Nestor Vega! Welcome to my Github Page:
 
-- 🔭 I am a bootcamp graduate with a full stack software engineer skill set, currently developing a healthbot AI that will help diagnose patients
+- 🔭 I am a bootcamp graduate with a full stack software engineering skill set, currently developing a healthbot AI that will help diagnose patients
 - 🌱 I’m currently pursuing my bachelors degree in computer science
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/nestor-vega-233b43238/) [wellfound](https://angel.co/u/nestorvega23) vega.nestor1@gmail.com
 - 😄 Check out my [Personal Portolio](https://nvega23.github.io/portfolio/)
